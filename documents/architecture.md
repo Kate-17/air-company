@@ -2,4 +2,4 @@
 
 ## Макеты интерфейса приложения
 
-![1](https://lh6.googleusercontent.com/EktSLJDlpD5zNHqGNzPbFfO2qOkPPDKt_4XIHXjg_ewjB13Cg9v3gX9wtKcAesnDfFX_937H-hq7_x8=w1582-h707  "Экран Входа")
+![1](https://pp.userapi.com/c626816/v626816670/35e10/s4Th7wowLk4.jpg "Экран Входа")
